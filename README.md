@@ -20,7 +20,7 @@ This project contains following files:
 
 ---
 
-To run this project, you should run **main.ipynb** notebook. Following is a snippet showing network solving the sudoku.
+To run this project, you should run **clock.ipynb** notebook. Following is a snippet showing network reading clock.
 
 <img src=result.png width="400">
 
