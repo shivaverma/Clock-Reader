@@ -8,6 +8,8 @@ This Software read time from the Clock Images using Convolutions Neural Network.
 
 Download dataset for this project from [here](https://www.kaggle.com/shivajbd/analog-clocks).
 
+---
+
 ### This project contains following files:
 
 | File      | Description |
@@ -21,5 +23,7 @@ Download dataset for this project from [here](https://www.kaggle.com/shivajbd/an
 To run this project, you should run **main.ipynb** notebook. Following is a snippet showing network solving the sudoku.
 
 <img src=result.png width="400">
+
+---
 
 For detailed description of this project plese refer [this]() blog:
