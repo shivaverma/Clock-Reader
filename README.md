@@ -16,7 +16,9 @@ Download dataset for this project from [here](https://www.kaggle.com/shivajbd/an
 | **clock.ipynb**   | jupyter notebook for running and testing the code        |
 | **clock.model** | saved model |
 
-To run this project, you should run `main.ipynb` notebook. Following is a snippet showing network solving the sudoku.
+---
+
+To run this project, you should run **main.ipynb** notebook. Following is a snippet showing network solving the sudoku.
 
 <img src=result.png width="400">
 
