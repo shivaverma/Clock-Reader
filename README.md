@@ -11,11 +11,11 @@ Download dataset for this project from [here](https://www.kaggle.com/shivajbd/an
 ### This project contains following files:
 
 -  `clock_gen.py`:  Script to generate random clock images
--  `main.ipynb` :  jupyter notebook for running and testing the code
--  `model/time_det.model`:  saved model
+-  `clock.ipynb` :  jupyter notebook for running and testing the code
+-  `clock.model`:  saved model
 
 To run this project, you should run `main.ipynb` notebook. Following is a snippet showing network solving the sudoku.
 
-<img src=image/test.png width="500">
+<img src=result.png width="500">
 
 For detailed description of this project plese refer [this]() blog:
