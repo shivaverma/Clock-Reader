@@ -10,7 +10,7 @@ Download dataset for this project from [here](https://www.kaggle.com/shivajbd/an
 
 ---
 
-### This project contains following files:
+This project contains following files:
 
 | File      | Description |
 | :-----------: | :-----------: |
