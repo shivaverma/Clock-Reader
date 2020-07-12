@@ -1,10 +1,14 @@
 ## Clock-Reader
 
-version 1.1.0
+**version** - `1.1.1`
 
 This Software read time from the Clock Images using Convolutions Neural Network.
 
-**Language**: Python 3.6
+### Requirements
+
+- **`python`** - `3.7`
+- **`keras`** -  `2.4.3`
+- **`tensorflow`** -  `2.2.0`
 
 Download dataset for this project from [here](https://www.kaggle.com/shivajbd/analog-clocks).
 
