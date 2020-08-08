@@ -10,7 +10,7 @@ This Software read time from the Clock Images using Convolutions Neural Network.
 - **`keras`** -  `2.4.3`
 - **`tensorflow`** -  `2.2.0`
 
-Download dataset for this project from [here](https://www.kaggle.com/shivajbd/analog-clocks).
+Download dataset from [here](https://www.kaggle.com/shivajbd/analog-clocks) for this project.
 
 ---
 
@@ -25,7 +25,7 @@ This project contains following files:
 
 ---
 
-To run this project, you should run **clock.ipynb** notebook. Following is a snippet showing network reading clock.
+Following is a snippet showing network reading clock. Network was able to read the clock close to 3 mins(average).
 
 <img src=result/result.png width="450">
 
