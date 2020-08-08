@@ -16,9 +16,9 @@ This Software read time from the Clock Images using Convolutions Neural Network.
 
 | File      | Description |
 | :-----------: | :-----------: |
-| **scripts/clock_gen.py**      | Script to generate random clock images       |
-| **scripts/pre_process.py**      | Script to prepare data       |
 | **clock.ipynb**   | jupyter notebook for running and testing the model     |
+| **model.py**   | neural network implementation     |
+| **scripts**      | scripts for generating data       |
 | **model/clock.model** | saved model |
 
 ---
