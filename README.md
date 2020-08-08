@@ -10,11 +10,9 @@ This Software read time from the Clock Images using Convolutions Neural Network.
 - **`keras`** -  `2.4.3`
 - **`tensorflow`** -  `2.2.0`
 
-Download dataset from [here](https://www.kaggle.com/shivajbd/analog-clocks) for this project.
-
 ---
 
-This project contains following files:
+### Project Content
 
 | File      | Description |
 | :-----------: | :-----------: |
@@ -24,11 +22,16 @@ This project contains following files:
 | **model/clock.model** | saved model |
 
 ---
+### Performance
 
-Following is a snippet showing network reading clock. Network was able to read the clock close to 3 mins(average).
+Network was able to read the clock close to 3 mins(average). Following is a snippet showing network reading clock. 
 
 <img src=result/result.png width="450">
 
 ---
 
-Read [this]() blog for more detail of this project.
+### References
+
+- Download the [**dataset**](https://www.kaggle.com/shivajbd/analog-clocks) for this project.
+- Read this [**blog**](https://towardsdatascience.com/training-neural-net-to-read-clock-time-9473175171e3) to get all detail of this project.
+
