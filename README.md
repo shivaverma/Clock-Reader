@@ -27,8 +27,8 @@ This project contains following files:
 
 To run this project, you should run **clock.ipynb** notebook. Following is a snippet showing network reading clock.
 
-<img src=result/result.png width="400">
+<img src=result/result.png width="450">
 
 ---
 
-For detailed description of this project plese refer [this]() blog:
+Read [this]() blog for more detail of this project.
