@@ -19,7 +19,7 @@ This Software read time from the Clock Images using Convolutions Neural Network.
 | **clock.ipynb**   | jupyter notebook for running and testing the model     |
 | **model.py**   | neural network implementation     |
 | **scripts**      | scripts for generating data       |
-| **model/clock.model** | saved model |
+| **model** | saved model |
 
 ---
 ### Performance
